@@ -1,0 +1,21 @@
+{
+    "name": "teckpenguin-matrix-dark",
+    "displayName": "TeckPenguin Matrix Dark",
+    "description": "Teckpenguin Matrix theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Teckpenguin Matrix Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Teckpenguin Matrix Dark-color-theme.json"
+            }
+        ]
+    }
+}
