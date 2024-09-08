@@ -1,13 +1,11 @@
 {
-	"name": "Teckpenguin Matrix Dark",
+	"name": "Codopy Dark Theme",
 	"type": "dark+",
 	"colors": {
-
 		"list.hoverBackground": "#464521",
 		"minimapSlider.background": "#a4bd003a",
 		"minimapSlider.hoverBackground": "#a4bd004d",
 		"minimapSlider.activeBackground": "#a4bd0060",
-
 		"editorGroup.border": "#A4BD00",
 		"editorGroup.dropBackground": "#a4bd0060",
 		"editorGroupHeader.tabsBorder": "#a4bd0060",
@@ -18,13 +16,12 @@
 		"editor.selectionHighlightBackground": "#b8a01950",
 		"editorWidget.border": "#a4bd00",
 		"panelTitle.activeBorder": "#03A062",
-
 		"scrollbarSlider.hoverBackground": "#a4bd001f",
 		"scrollbarSlider.activeBackground": "#a4bd0033",
 		"scrollbarSlider.background": "#a4bd000e",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.activeForeground": "#03A062",
-		"activityBar.background":"#0c0f0e",
+		"activityBar.background": "#0c0f0e",
 		"activityBar.foreground": "#03A062",
 		"statusBar.background": "#0c0f0e",
 		"editor.background": "#0c0f0e",
@@ -36,7 +33,6 @@
 		"sideBar.foreground": "#03A062",
 		"terminal.foreground": "#03A062"
 	},
-
 	"tokenColors": [
 		{
 			"name": "Comment",
